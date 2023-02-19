@@ -6,3 +6,4 @@ Angular-based frontend for the notes management system project, made under the D
 - Daksh Soni (Daksh-99)
 - Drashti Mehta (drxshtx)
 - Tanishka Kabra (Tanishkakabra)
+- Sarthak Kulkarni (sarthakk29)
